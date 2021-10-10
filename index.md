@@ -1,5 +1,5 @@
 <div> 
-    <img src="{{ '/img/homeBilkent.JPG' | relative_url }}" alt="--" style="width:80%;" >
+    <img src="{{ '/img/homeBilkent.JPG' | relative_url }}" alt="--" style="width:90%;" >
     <p/>
     <p/>
 </div>
