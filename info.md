@@ -8,7 +8,7 @@ title: Info
 </div>
 
 Group Members:
-- Yavuz Bakman - faruk.bakman@ug.bilkent.edu.tr
+- Yavuz Faruk Bakman - faruk.bakman@ug.bilkent.edu.tr
 - Duygu Nur Yaldız - nur.yaldiz@ug.bilkent.edu.tr
 - Alperen Öziş - alperen.ozis@ug.bilkent.edu.tr
 - Zübeyir Bodur - zubeyir.bodur@ug.bilkent.edu.tr
