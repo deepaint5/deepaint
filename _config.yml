@@ -1,0 +1,12 @@
+# basic options
+title: Project-Name
+title-icon: fas fa-code
+# description, keywords, and image for meta tags
+featured-image: "/img/homeBilkent.jpg"
+author: Project-Group-Name
+email: group-email@domain.com
+description: Department of Computer Engineering
+
+# Build settings
+markdown: kramdown
+theme: minima
