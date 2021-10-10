@@ -4,7 +4,7 @@ title: Info
 ---
 
 <div> 
-    <img src="{{ '/img/info.jpg' | relative_url }}" alt="--" style="width:15%;" >
+    <img src="{{ '/img/mailIcon.png' | relative_url }}" alt="--" style="width:15%;" >
 </div>
 
 Group Members:
