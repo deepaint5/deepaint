@@ -1,9 +1,23 @@
+---
+driveId: putYourIDHere
+---
+
 <div> 
     <img src="{{ '/img/homeBilkent.JPG' | relative_url }}" alt="--" style="width:90%;" >
     <p/>
     <p/>
 </div>
 
+
+## Embed Google Drive
+
+<!---
+Include this next line in your .md file for Google Drive videos, make sure to put your video ID up there!
+
+Example:     driveId: 0B7L_dMcaZknxVTRndmdSQ0F5OFE/preview
+-->
+
+{% include googleDrivePlayer.html id=page.driveId %}
 
 
 # Welcome to Our Senior Design Project
