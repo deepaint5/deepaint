@@ -8,12 +8,6 @@ driveId: 1Z4j0UfbOwgCUQ-_COQSbAN8Waj1x1NRl/preview
     <p/>
 </div>
 
-
-# Demo Trailer
-
-{% include googleDrivePlayer.html id=page.driveId %}
-
-
 # Welcome to Our Senior Design Project
 
 During the last decade, social media applications have become widely used and part of our daily lives due to the easy accessibility of mobile devices and the increasing quality of their cameras. All around the world, people take photos constantly and share them on social media. While sharing photos, people have an urge to get rid of the imperfections in the photo such as a stranger in the background of a selfie or a car in a beautiful scene.  Moreover, many want their photos to be more artistic than the real version; therefore, they adjust lighting, change style, etc. 
@@ -22,7 +16,12 @@ However, applying these changes requires knowledge and experience in photoshop. 
 
 Considering the demand for easy and accurate photoshop applications, we came up with the DeePaint project. 
 
+#
+## Demo Trailer
 
+{% include googleDrivePlayer.html id=page.driveId %}
+
+#
 ## About DeePaint
 
 DeePaint is a photoshop mobile application and allows users to edit their photographs with AI power. It brings together different machine learning models and tasks in one application. The goal of the project is to minimize human interaction in the process of photo editing/shop. Meaning that users will only prompt high level of instructions to the application to edit/shop their photographs. 
