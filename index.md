@@ -16,12 +16,14 @@ However, applying these changes requires knowledge and experience in photoshop. 
 
 Considering the demand for easy and accurate photoshop applications, we came up with the DeePaint project. 
 
-#
+
+
 ## Demo Trailer
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
-#
+
+
 ## About DeePaint
 
 DeePaint is a photoshop mobile application and allows users to edit their photographs with AI power. It brings together different machine learning models and tasks in one application. The goal of the project is to minimize human interaction in the process of photo editing/shop. Meaning that users will only prompt high level of instructions to the application to edit/shop their photographs. 
