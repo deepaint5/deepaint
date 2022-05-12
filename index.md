@@ -1,5 +1,5 @@
 ---
-driveId: putYourIDHere
+driveId: 1Z4j0UfbOwgCUQ-_COQSbAN8Waj1x1NRl/view
 ---
 
 <div> 
@@ -9,13 +9,7 @@ driveId: putYourIDHere
 </div>
 
 
-## Embed Google Drive
-
-<!---
-Include this next line in your .md file for Google Drive videos, make sure to put your video ID up there!
-
-Example:     driveId: 0B7L_dMcaZknxVTRndmdSQ0F5OFE/preview
--->
+# Demo Trailer
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
