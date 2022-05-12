@@ -16,13 +16,19 @@ However, applying these changes requires knowledge and experience in photoshop. 
 
 Considering the demand for easy and accurate photoshop applications, we came up with the DeePaint project. 
 
-
+<div> 
+    <p/>
+    <p/>
+</div>
 
 ## Demo Trailer
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
-
+<div> 
+    <p/>
+    <p/>
+</div>
 
 ## About DeePaint
 
