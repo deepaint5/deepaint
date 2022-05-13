@@ -7,6 +7,11 @@ driveId: 1Z4j0UfbOwgCUQ-_COQSbAN8Waj1x1NRl/preview
     <p/>
     <p/>
 </div>
+<div> 
+    <img src="{{ '/img/group.jpeg' | relative_url }}" alt="--" style="width:90%;" >
+    <p/>
+    <p/>
+</div>
 
 # Welcome to Our Senior Design Project
 
